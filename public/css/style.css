@@ -1,0 +1,19 @@
+body {
+    width: 100%;
+    height: 100%;
+}
+#video {
+    width: 800px;
+    height: 600px;
+}
+.login-box {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
